@@ -1,7 +1,11 @@
-# Software to track worms *(C. Elegans)* on Paper and analyse their behavior at different drug concentrations
+# Software to track microscopic worms *(C. Elegans)* on paper microfluidic chips and analyse their behavior and locomotion
 
 This software is written for our [paper] in *APL Bioengineering*:
-*"Flexible and disposable paper and plastic-based gel micropads for nematode handling, imaging and chemical testing"*
+Zach Njus, Taejoon Kong, Upender Kalwa, Christopher Legner, Matthew Weinstein, Shawn Flanigan, Jenifer Saldanha, and Santosh Pandey , "Flexible and disposable paper- and plastic-based gel micropads for nematode handling, imaging, and chemical testing", APL Bioengineering 1, 016102 (2017) 
+
+https://doi.org/10.1063/1.5005829
+
+https://aip.scitation.org/doi/10.1063/1.5005829
 
 ## Requirments
 
